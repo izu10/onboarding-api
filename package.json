@@ -1,0 +1,23 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "description": "onboarding-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cool.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izu10/onboarding-api.git"
+  },
+  "author": "izu10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izu10/onboarding-api/issues"
+  },
+  "homepage": "https://github.com/izu10/onboarding-api#readme",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
